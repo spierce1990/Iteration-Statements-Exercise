@@ -1,7 +1,56 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-namespace IterationStatements
-{
+namespace IterationStatements { 
+
+
+    /* for (int i = 0 ; int > 5 ; 1++)
+     { Console.WriteLine:"$ {i}";
+        }
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "$ {i}" ;}
+
+    for (int i = 0 ; int > 5; 1++)
+    {Console.Writeline: "$ {i}";}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "{i}":}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "$ {i}";}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "$ {i}";}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "$ {i}";}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "$ {i}";}
+
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "$ {i}";}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "$ {i}";}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "${i}";}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "${i}"}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "${i}"}
+
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "${i}";}
+    for (int i = 0; int > 5; 1++)
+    {Console.WriteLine: "${i}";}
+   
+
+
+     */
     public class Program
     {
         //LukeWarm Section: Create methods below
